@@ -8,6 +8,8 @@
 
 Link do tutorial de base : [Tutorial]](https://www.youtube.com/watch?v=GuA0_Z1llYU&t=1s)
 
+Link Repositório : [Repo]](https://github.com/rebeccaaaaaaaaaaa/weather-app
+
 # O que aprendi nesse projeto?
 
  -  Utilização de condicional para mudança de estado
@@ -21,8 +23,8 @@ Link do tutorial de base : [Tutorial]](https://www.youtube.com/watch?v=GuA0_Z1ll
 - Rode - npm run start - para executar o projeto localmente
 
 
-![Imagem]()
+![Imagem](https://raw.githubusercontent.com/rebeccaaaaaaaaaaa/weather-app/main/public/preview.png)
 
 # Deploy
 
-[Weather App]()
+[Weather App](https://rebecca-weatherapp.netlify.app/)
