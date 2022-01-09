@@ -15,7 +15,7 @@ Link Repositório : [Repo]](https://github.com/rebeccaaaaaaaaaaa/weather-app
  -  Utilização de condicional para mudança de estado
  - Integração com API
  - FETCH no onChange do botão
- - Controle de input
+ - Entrada (input) controlados
 
 # Rodando o projeto
 
