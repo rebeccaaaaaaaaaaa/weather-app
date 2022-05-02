@@ -6,9 +6,9 @@
 
 
 
-Link do tutorial de base : [Tutorial]](https://www.youtube.com/watch?v=GuA0_Z1llYU&t=1s)
+Link do tutorial de base : [Tutorial](https://www.youtube.com/watch?v=GuA0_Z1llYU&t=1s)
 
-Link Repositório : [Repo]](https://github.com/rebeccaaaaaaaaaaa/weather-app
+Link Repositório : [Repo](https://github.com/rebeccaaaaaaaaaaa/weather-app
 
 # O que aprendi nesse projeto?
 
